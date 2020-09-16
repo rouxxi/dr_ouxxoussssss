@@ -22,13 +22,15 @@ section:nth-of-type(2){
 
 section:nth-of-type(3){
     text-align: center;
+    width: 100%;
 }
 
 article{
     display: inline-block;
-    width: 150px;
-    height: 200px;
+    width: 220px;
+    height: 300px;
     background-color: grey;
+    margin: 15px;
 }
 
 form input, form textarea{
