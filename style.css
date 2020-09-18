@@ -38,3 +38,7 @@ form input, form textarea{
     width: 80%;
     margin: 0 auto;
 }
+
+form input {
+    margin-bottom: 10px;
+}
